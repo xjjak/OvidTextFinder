@@ -4,3 +4,5 @@ Find the corresponding text in the works "Metamorphosis" by Ovid, given a list o
 
 ### TODO: Scraper -> Get all texts from https://gottwein.de/Lat/ov/met01la.php
 
+READ: 4RussiansMethod
+

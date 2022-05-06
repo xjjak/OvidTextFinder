@@ -1,5 +1,5 @@
 
-with open("vocabsheet.txt", "r") as v:
+with open("data/vocabsheet.txt", "r") as v:
     words = [i.strip() for i in v]
 
 
